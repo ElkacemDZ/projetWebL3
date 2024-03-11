@@ -1,0 +1,12 @@
+{
+  "projetMobile": {
+    "nom": "Projet de développement d'application mobile",
+    "description": "Ce projet vise à créer une application mobile innovante pour simplifier la vie quotidienne des utilisateurs.",
+    "membres_a_recruter": 3
+  },
+  "projetJava": {
+    "nom": "Projet de développement d'application de gestion",
+    "description": "Bon courage pour JavaFX",
+    "membres_a_recruter": 4
+  }
+}
